@@ -4,10 +4,9 @@
   "private": "true",
   "license": "MIT",
   "description": "Material para el workshop sobre Hardhat Ignition en Aleph 2024",
-  "dependencies": {
-    "hardhat": "^2.22.9"
-  },
   "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.9",
     "@nomicfoundation/hardhat-toolbox": "^5.0.0"
   }
 }
