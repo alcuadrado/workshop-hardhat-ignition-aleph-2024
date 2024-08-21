@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-ignition-workshop-aleph",
+  "version": "1.0.0",
+  "private": "true",
+  "license": "MIT",
+  "description": "Material para el workshop sobre Hardhat Ignition en Aleph 2024",
+  "dependencies": {
+    "hardhat": "^2.22.9"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
