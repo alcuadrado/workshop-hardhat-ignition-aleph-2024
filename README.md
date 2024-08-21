@@ -1,22 +1,22 @@
-# Hardhat Ignition Workshop en Aleph 2024
+# Workshop de Hardhat Ignition en Aleph 2024
 
-Este repositorio está preparado para dar un workshop de [Hardhat Ignition](https://hardhat.org/ignition) en Alepth.
+Este repositorio está preparado para el workshop de [Hardhat Ignition](https://hardhat.org/ignition) en Aleph 2024.
 
-## Preparación para el workshop
+## Preparación para el Workshop
 
-Es posible que internet no funcione durante el transcurso del workshop. Para poder seguirlo si esto pasa, recomendamos fuertemente seguir estas instrucciones antes de ir al venue del workshop.
+Es posible que no haya conexión a internet durante el transcurso del workshop. Para poder seguirlo sin inconvenientes en caso de que esto ocurra, recomendamos fuertemente seguir estas instrucciones antes de ir al lugar del evento.
 
-1. Clonar el repositorio: `https://github.com/alcuadrado/workshop-hardhat-ignition-alpeh-2024`
-2. Correr `node --version` en la consola para asegurarse que tienen Node 18+. Sino instalarlo siguiendo la documentación oficial.
-3. Correr `npm --version` en la consola para asegurarse que tienen npm 8+. Sino actualizarlo corriendo `npm install -g npm`
-4. Instalar las dependencias del repositorio coriendo `npm install` en la consola, dentro del repositorio.
-5. Asegurarse que todo funcionó corriendo `npx hardhat`, y deberia aparecer un mensaje de ayuda.
+1. Clonar [el repositorio](https://github.com/alcuadrado/workshop-hardhat-ignition-alpeh-2024).
+2. Ejecutar `node --version` en la consola para asegurarte de que tenés Node 18+ instalado. Si no es así, instalalo siguiendo la documentación oficial.
+3. Ejecutar `npm --version` en la consola para asegurarte de que tenés npm 8+ instalado. Si no es así, actualizalo ejecutando `npm install -g npm`.
+4. Instalar las dependencias del repositorio ejecutando `npm install` en la consola, dentro del repositorio clonado.
+5. Verificar que todo funcione correctamente ejecutando `npx hardhat`, lo cual debería mostrar un mensaje de ayuda.
 
-## Más información
+## Más Información
 
-Para encontrar más información sobre Hardhat Ignition se pueden cosultar:
+Para encontrar más información sobre Hardhat Ignition, podés consultar:
 
 1. [La documentación oficial](https://hardhat.org/ignition/docs/getting-started#overview)
-2. [Ejemplos de modulos](https://github.com/NomicFoundation/hardhat-ignition-examples)
-3. [Guia sobre upgradable contracts](https://hardhat.org/ignition/docs/guides/upgradeable-proxies)
-4. [Guia para deployar con una Ledger](https://hardhat.org/ignition/docs/guides/ledger)
+2. [Ejemplos de módulos](https://github.com/NomicFoundation/hardhat-ignition-examples)
+3. [Guía sobre contratos upgradables](https://hardhat.org/ignition/docs/guides/upgradeable-proxies)
+4. [Guía para deployar con una Ledger](https://hardhat.org/ignition/docs/guides/ledger)
